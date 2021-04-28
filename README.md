@@ -11,3 +11,17 @@ Generally speaking, the apps I explored related to my project are all extremely 
 <li> An updated search function that allows users to filter results using typical advanced search abilities </li>
   <li>The ability to change the language of the app</li>
 </ul>
+
+<h2> William </h2>
+
+<h3> Persona </h3>
+
+
+
+
+
+
+
+
+
+<h2> Maria </h2>
