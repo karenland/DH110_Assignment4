@@ -15,15 +15,16 @@ Generally speaking, the apps I explored related to my project are all extremely 
 <h2> William </h2>
 
 <h3> Persona </h3>
+<img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png">
 
-
-
-
-
-
-
+<h3> Empathy Map </h3>
+<img src="https://user-images.githubusercontent.com/82078120/116471498-9ad97480-a829-11eb-8946-4dbbd82df58c.png">
 
 
 <h2> Maria </h2>
+
 <h3> Persona </h3>
-<img src="https://user-images.githubusercontent.com/82078120/116470060-c65b5f80-a827-11eb-8177-0c9fd6f510cb.png">
+<img src="https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg">
+
+<h3> Empathy Map </h3>
+<img src="https://user-images.githubusercontent.com/82078120/116470317-1b977100-a828-11eb-99c6-35225fe96e31.jpg">
